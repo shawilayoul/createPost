@@ -1,0 +1,41 @@
+form {
+    display: grid;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+button {
+    padding: 8px;
+    margin: 2px;
+    width: 310;
+    border-radius: 6px;
+    background-color: black;
+    color: #f1f1f1;
+}
+
+button:hover {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.post_review {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+
+.post {
+    width: 20rem;
+    height: 10rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}

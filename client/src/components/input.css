@@ -1,0 +1,39 @@
+form {
+    display: grid;
+    justify-content: center;
+}
+
+.movie {
+    display: grid;
+    justify-content: center;
+}
+
+input {
+    width: 200;
+    margin: 2px;
+}
+
+button {
+    margin: 2px;
+    width: 100px;
+}
+
+.display_list {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+
+}
+
+.movie_review {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    width: 20rem;
+    height: 21rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}

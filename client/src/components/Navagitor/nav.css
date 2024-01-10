@@ -1,0 +1,12 @@
+.nav {
+    background-color: rgba(67, 14, 241, 0.927);
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: #f1f1f1;
+}
